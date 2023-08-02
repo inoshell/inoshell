@@ -1,4 +1,4 @@
-# 💫 About Me: ![Profile views](https://gpvc.arturio.dev/inoaa79)
+# 💫 About Me: ![Profile views](https://komarev.com/ghpvc/?username=inoshell)
 Flying stuff fan
 
 
